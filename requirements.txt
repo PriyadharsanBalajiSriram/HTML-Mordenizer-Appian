@@ -1,0 +1,5 @@
+bs4
+langgraph
+langchain-community
+litellm
+rootutils
